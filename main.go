@@ -2,7 +2,6 @@ package main
 
 import (
 	"os"
-
 	"github.com/BRO3886/covid-twt-telegram/pkg"
 	"github.com/joho/godotenv"
 	log "github.com/sirupsen/logrus"
